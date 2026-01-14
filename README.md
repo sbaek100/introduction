@@ -5,3 +5,9 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: [이메일 주소]
+
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sbaek100&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbaek100&layout=compact&theme=dark)
