@@ -1,2 +1,7 @@
-# introduction
-개인적인 실험실입니다.
+# Hi 👋, My name is [이름]
+### [현재 직함이나 소속, 예: Ph.D student at NUS]
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 💬 Ask me about ...
+- 📫 How to reach me: [이메일 주소]
